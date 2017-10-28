@@ -18,13 +18,8 @@ public class Model {
 	private String name;
 
 	private int progress;
-	public int getProgress() {
-		return progress;
-	}
 
-	public void setProgress(int progress) {
-		this.progress = progress;
-	}
+	private String tts;
 
 	/**
 	 * @return the id
@@ -56,5 +51,19 @@ public class Model {
 		this.id = id;
 		this.name = name;
 	}
-	
+
+	public int getProgress() {
+		return progress;
+	}
+
+	public void setProgress(int progress) {
+		this.progress = progress;
+	}
+	public String getTts() {
+		return tts;
+	}
+
+	public void setTts(String tts) {
+		this.tts = tts;
+	}
 }

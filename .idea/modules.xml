@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ListViewPartRefreash042.iml" filepath="$PROJECT_DIR$/ListViewPartRefreash042.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewPartRefresh_send_tts.iml" filepath="$PROJECT_DIR$/ListViewPartRefresh_send_tts.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
